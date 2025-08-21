@@ -122,3 +122,24 @@ npm run dev
 * **Security:** Enforced 2FA for sensitive wallet and bank transactions.
 
 ---
+## 👑 Admin Access (Demo)
+
+For testing purposes, an **Admin account** is available.  
+Use these credentials to log in and explore admin features.
+
+**Demo Credentials**
+
+| Field        | Value                    |
+|--------------|--------------------------|
+| **Username** | `shivamsss123@gmail.com` |
+| **Password** | `Shivam123`              |
+
+**Admin Capabilities**  
+- ✅ Approve or decline withdrawal requests  
+
+> ⚠️ **Important Security Notice**  
+> These credentials are strictly for **demo/testing**.  
+> In production environments, always:  
+> - Replace default login details immediately  
+> - Enforce **strong password policies**  
+> - Enable **Two-Factor Authentication (2FA)**

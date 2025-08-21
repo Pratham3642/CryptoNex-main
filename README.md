@@ -143,3 +143,15 @@ Use these credentials to log in and explore admin features.
 > - Replace default login details immediately  
 > - Enforce **strong password policies**  
 > - Enable **Two-Factor Authentication (2FA)**
+
+## 📜 License  
+
+MIT License – Free to use, explore, and adapt.  
+
+---
+
+## 📢 Author  
+
+**Prathamesh Mavalkar**  
+📧 [prathameshmavalkar34@gmail.com](mailto:prathameshmavalkar34@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/prathamesh-mavalkar/)  
